@@ -1,0 +1,13 @@
+Pushshift submission keys I actually care about:
+- created_utc
+- full_link
+- id
+- link_flair_text
+- score
+- selftext
+- subreddit
+- subreddit_id
+- title
+- upvote_ratio
+- url
+- is_created_from_ads_ui
